@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EndlessGyre
-- 👀 I’m interested in Game Deve as a hobby.
+- 👀 I’m interested in Game Dev as a hobby.
 - 🌱 I’m currently learning Phaser.js.
 - 💞️ I’m looking to collaborate on art and music.
 - 📫 How to reach me: jprahn01@gmail.com ...
